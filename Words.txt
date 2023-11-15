@@ -1,0 +1,7 @@
+3;Cat;[kaet];Meo
+1;Apple;[aepl];Tao
+2;April;[eipril];Thang Tu
+4;Dog;[daun];Cho
+6;Rabbit;[raebit];Tho
+5;Phone;[faun];Dien
+7;Water;[wader];Nuoc
